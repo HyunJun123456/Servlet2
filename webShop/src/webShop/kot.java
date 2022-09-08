@@ -1,5 +1,7 @@
 package webShop;
 
 public class kot {
-	// 코틀린 공부중
+	public static int Add(int a, int b) {
+		return a+b;
+	}
 }
